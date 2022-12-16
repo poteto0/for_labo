@@ -13,3 +13,17 @@ git clone https://github.com/poteto0/for_labo.git
 source("./method/使いたい関数.R")
 ```
 を追加して実行
+
+または使いたい関数をコピペする
+
+## 関数一覧
+* calc_velocity:
+速度を計算する。
+```
+calc_velocity(速度を計算したいデータ, 1スライス毎の時間間隔)
+```
+* moving_average:
+移動平均を求める
+```
+moving_average(移動平均を求めたいデータ, 移動平均間隔)
+```
