@@ -4,8 +4,9 @@
 ## 使い方
 ターミナルで作業ディレクトリに移動して
 ```
-https://github.com/poteto0/for_labo.git
+git clone https://github.com/poteto0/for_labo.git
 ```
+とコマンドを入力
 
 使いたいスクリプトファイルに
 ```
