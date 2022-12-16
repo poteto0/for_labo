@@ -10,7 +10,7 @@ git clone https://github.com/poteto0/for_labo.git
 
 使いたいスクリプトファイルに
 ```
-source("./method/使いたい関数.R")
+source("./for_labo/method/使いたい関数.R")
 ```
 を追加して実行
 
