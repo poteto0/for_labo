@@ -13,3 +13,6 @@ Rで使えるメソッドをまとめています。プロ研などで使える�
 
 ## object
 Pythonでよく使う汎用コードを毎回書くのがめんどくさかったので、オブジェクト化してまとめたものです。
+<br>
+詳しくはこちら<br>
+https://github.com/poteto0/for_labo/blob/main/object/ReadMe.md
