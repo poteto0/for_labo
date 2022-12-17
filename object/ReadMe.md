@@ -19,3 +19,11 @@ ap.plot_timelapse(10) # インターバルを設定して実際にプロット�
 実行結果例
 
 ![実行例](images/1.gif)
+
+
+## for_timeout
+機械学習などで待ち時間が長いときにセッションのタイムアウトを防ぐために用いるスクリプトです。
+ただし、`pyautogui`のインストールが必要になります。
+```
+pip install pyautogui
+```
