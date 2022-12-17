@@ -10,9 +10,14 @@ git clone https://github.com/poteto0/for_labo.git
 
 ## method
 Rで使えるメソッドをまとめています。プロ研などで使えるものもまとめています。
+<br>
+詳しくはこちら
+<br>
+https://github.com/poteto0/for_labo/blob/main/method/ReadMe.md
 
 ## object
 Pythonでよく使う汎用コードを毎回書くのがめんどくさかったので、オブジェクト化してまとめたものです。
 <br>
-詳しくはこちら<br>
+詳しくはこちら
+<br>
 https://github.com/poteto0/for_labo/blob/main/object/ReadMe.md
